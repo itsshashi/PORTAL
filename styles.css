@@ -1,0 +1,84 @@
+h1{
+  color: #51e2f5;
+  text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size:50px;
+    margin-top: 50px;
+    margin-bottom: 59px;
+}
+h2{
+  font-size: 32px;
+  color:red;
+  font-family: 'Poppins', sans-serif;
+}
+img{
+  height:120px;
+  width:120px;
+margin:6% 35% 0 46%;
+
+}
+body{
+  align-items: center;
+  background-image:url(3892780.jpg);
+  background-repeat: no-repeat;
+  background-size: none;
+
+}
+.panel{
+  margin:1% 50% 6% 13%;
+  font-size: .8em;
+box-shadow: none;
+border-radius:12%;
+ background-image: linear-gradient(To right bottom,powderblue,  #51e2f5, black);
+border-color:black;
+border-width:20px;
+align-items: center;
+display:block;
+padding:2px 2px 25px 35px;
+opacity:0.8;
+background-clip:border-box;
+box-shadow:0 20px 20px 0 grey;
+
+}
+ .card-Body{
+  margin:1em 0 4em 0;
+}
+.card-header{
+ margin:1em 0 4em 0;
+}
+input{
+  width:100%;
+  height:50px;
+  font-size: 1em;
+  border-radius: 5%;
+
+  width:90%;
+  color:darkblue;
+  border-width: 0.1px;
+  border-color:white;
+
+
+
+}
+.card-footer{
+  width:90%;
+  margin:0 2rem 0 0;
+}
+.centertag{
+  color:green;
+  margin:1.2em 0 2rem 0;
+  font-size: 35px;
+  text-align: center;
+}
+.foot{
+  padding:8rem 0 0 0;
+  font-family: 'Tangerine', cursive;
+  font-size: 150px;
+  margin:0 0 0 5%;}
+.footer{
+  background-color: powderblue;
+}
+.after{
+  color:red; 
+  background-color:darkblue;
+}
